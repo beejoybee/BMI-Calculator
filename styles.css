@@ -1,0 +1,29 @@
+body {
+ height: 100%
+ background-repeat: no-repeat;
+ background-image: linear-gradient(to right,rgb(94,87,251) 0%,rgb(134,128,251) 100%);
+ background-blend-mode: normal;
+ color: white;
+ font-family: 'Lato', sans-serif;
+ text-align:center;
+
+}
+
+h1 {
+  padding-top: 50px;
+  font-family: 'Orbitron', sans-serif;
+  font-weight: bolder;
+}
+h3 {
+  font-family: 'Orbitron', sans-serif;
+}
+img {
+    width: 20%;
+    padding: 20px;
+  }
+p {
+  padding-top: 20px;
+}
+button {
+  margin: 20px;
+}
